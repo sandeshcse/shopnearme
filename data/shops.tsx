@@ -128,7 +128,7 @@ export const shopData = [
     image: "/grocery.png?height=300&width=400",
     distance: 2.5,
     rating: 4.3,
-    address: "Plot 45, DLF Phase 4, Gurgaon",
+    address: "Plot 45, Main Market, Roorkee",
     products: [
       {
         id: 201,
@@ -239,7 +239,7 @@ export const shopData = [
     image: "/SuperMart.jpg?height=300&width=400",
     distance: 3.1,
     rating: 4.0,
-    address: "123, Main Road, Indiranagar, Bangalore",
+    address: "123, Market Street, Mandawar",
     products: [
       {
         id: 301,
@@ -352,7 +352,7 @@ export const shopData = [
     image: "/TrendyFashions.jpg?height=300&width=400",
     distance: 1.8,
     rating: 4.4,
-    address: "Shop 5, Phoenix Mall, Lower Parel, Mumbai",
+    address: "Shop 5, Market Complex, Badkala",
     products: [
       {
         id: 401,
@@ -463,7 +463,7 @@ export const shopData = [
     image: "/fashion.jpeg?height=300&width=400",
     distance: 2.7,
     rating: 4.2,
-    address: "45, Commercial Street, Bangalore",
+    address: "45, Main Road, Chhutmalpur",
     products: [
       {
         id: 501,
@@ -574,7 +574,7 @@ export const shopData = [
     image: "/StyleStudio.png?height=300&width=400",
     distance: 3.5,
     rating: 4.6,
-    address: "Shop 23, Ambience Mall, Gurgaon",
+    address: "Shop 23, Market Complex, Roorkee",
     products: [
       {
         id: 601,
@@ -687,7 +687,7 @@ export const shopData = [
     image: "/electronics.jpg?height=300&width=400",
     distance: 2.0,
     rating: 4.5,
-    address: "Shop 7, Mega Mall, Pune",
+    address: "Shop 7, Market Complex, Mandawar",
     products: [
       {
         id: 701,
@@ -798,7 +798,7 @@ export const shopData = [
     image: "/gadgetgalaxy.jpg?height=300&width=400",
     distance: 3.2,
     rating: 4.3,
-    address: "78, Tech Park, Hyderabad",
+    address: "78, Tech Park, Badkala",
     products: [
       {
         id: 801,
@@ -909,7 +909,7 @@ export const shopData = [
     image: "/TechHub.png?height=300&width=400",
     distance: 4.0,
     rating: 4.4,
-    address: "34, Electronics City, Bangalore",
+    address: "34, Market Street, Chhutmalpur",
     products: [
       {
         id: 901,
